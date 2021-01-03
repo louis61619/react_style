@@ -1,0 +1,5 @@
+#app > .title {
+  color: blue
+}
+
+/* >只會影響下一層 */
